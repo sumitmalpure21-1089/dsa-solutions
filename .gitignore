@@ -1,0 +1,5 @@
+.DS_Store
+# IDE folders
+.idea/
+# Maven build target
+target/
